@@ -28,3 +28,5 @@ list_of_shops = ["Wroclavia", "Magnolia", "Borek"]
 
 for i in list_of_shops:
   print(i)
+
+print("Pozdrawiam the mentor ever")
