@@ -25,3 +25,6 @@ print(f"W sumie kupuję {sum(number)} produktów.")
 print("Ale to było dobre!")
 
 list_of_shops = ["Wroclavia", "Magnolia", "Borek"]
+
+for i in list_of_shops:
+  print(i)
