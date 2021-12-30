@@ -21,3 +21,5 @@ for x in lista_zakupow.values():
   y = len(x)
   number.append(y)
 print(f"W sumie kupuję {sum(number)} produktów.")
+
+print("Ale to było dobre!")
